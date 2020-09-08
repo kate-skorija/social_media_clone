@@ -4,10 +4,14 @@ import UserList from "./UserList"
 function Users() {
   return (
     <React.Fragment>
-      <div class="row">
-      <h3>Lorem Ipsum</h3>
+      <div class="column">
+        <div id="users">
+          <div class="row">
+            <h3>Lorem Ipsum</h3>
+          </div>
+          <UserList />
+        </div>
       </div>
-        <UserList />
     </React.Fragment>
   );
 }

@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-<img src={process.env.PUBLIC_URL + 'diagram.jpg'}>
+![Component Diagram](https://raw.githubusercontent.com/kate-skorija/social_media_clone/master/social_media/diagram.png)
 
 ## Available Scripts
 

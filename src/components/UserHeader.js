@@ -3,8 +3,11 @@ import React from "react";
 function UserHeader() {
   return (
     <React.Fragment>
-      <h1>Kelli A. Corrigan</h1>
-      <p>TWEETS |  FOLLOWING | FOLLOWERS</p>
+      <div id="fill"></div>
+      <div id="userHeader">
+        <h2>Kelli A. Corrigan</h2>
+        <p>TWEETS FOLLOWING FOLLOWERS</p>
+      </div>
     </React.Fragment>
   );
 }

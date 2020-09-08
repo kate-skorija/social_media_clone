@@ -11,3 +11,73 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#tweet {
+  float: right;
+  margin-left: 10px;
+}
+
+#search {
+  width: 25%;
+  float: right;
+}
+
+#nav {
+  margin: 15px;
+}
+
+#status {
+  width: 80%;
+  margin-left: 100px;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+#statusWrapper {
+  /* background-color: lightblue; */
+  height: 70px;
+  padding: 0;
+  width: fill;
+  
+}
+
+#posts {
+  border: medium solid #bcbcbe;
+  padding: 0 20px;  
+}
+
+#users {
+  border: medium solid #bcbcbe;
+  padding: 20px;
+}
+
+.column {
+  margin: 15px;
+  padding: 15px;
+}
+
+#userHeader {
+  border: medium solid #bcbcbe;
+  padding: 20px;
+  width: 400px;
+}
+
+#bio {
+  border: medium solid #bcbcbe;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#userHeader p {
+  font-size: 10px;
+}
+
+#fill {
+  width: 400px;
+  height: 70px;
+  background-color: rgb(57, 57, 223);
+}
+
+hr {
+  margin: 0;
+}
