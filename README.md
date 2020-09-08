@@ -1,4 +1,20 @@
+# Social Media Clone
+
+#### _React Basics Exercise for Epicodus, 09.08.2020_
+
+
+
+## Description
+
+A site built only of functional React componenets meant to mimic a typical social media home page. Created to practice React basics.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Component Diagram
+
+
+
+<img src={process.env.PUBLIC_URL + 'diagram.jpg'}>
 
 ## Available Scripts
 
