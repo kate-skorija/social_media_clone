@@ -1,12 +1,14 @@
 import React from 'react';
-import UserHeader from "./UserHeader"
-import PostList from "./PostList"
+import Nav from "./Nav"
+import ContentContainer from "./ContentContainer"
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
   return (
     <React.Fragment>
-      <UserHeader />
-      <PostList />
+      <Nav />
+      <ContentContainer />
     </React.Fragment>
   );
 }
